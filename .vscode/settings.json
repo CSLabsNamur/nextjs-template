@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": false,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    "eslint.packageManager": "yarn",
+    "material-icon-theme.folders.associations": {
+        "actions": "redux-actions",
+        "reducers": "redux-reducer",
+        "store": "redux-store",
+    }
+}
