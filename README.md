@@ -7,7 +7,8 @@
 - Styled components
 - Formik
 - Framer Motion
-- redux
+- Redux
+- React query
 - Jest
 - React testing library
 - Eslint
