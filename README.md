@@ -1,4 +1,20 @@
-# Booking app
+# Template app
+
+## Shipped with
+
+- StoryBook
+- Material UI
+- Styled components
+- Formik
+- Framer Motion
+- redux
+- Jest
+- React testing library
+- Eslint
+- Prettier
+- Typescript
+- SASS
+- Docker
 
 ## Getting Started
 
