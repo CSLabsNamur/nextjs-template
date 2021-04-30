@@ -2,20 +2,20 @@
 
 ## Shipped with
 
-- StoryBook
-- Material UI
-- Styled components
-- Formik
-- Framer Motion
-- Redux
-- React query
-- Jest
-- React testing library
-- Eslint
-- Prettier
-- Typescript
-- SASS
-- Docker
+- [StoryBook](https://storybook.js.org/):                   UI component explorer for frontend developers
+- [Material UI](https://material-ui.com/):                  A popular React UI framework (Many usefull react components)
+- [Styled components](https://www.styled-components.com):   Visual primitives for the component age.
+- [Formik](https://formik.org):                             Build forms in React, without the tears
+- [Framer Motion](https://www.framer.com):                  Production-Ready Animation Library for React
+- [Redux](https://redux.js.org):                            A predictable state container for JavaScript apps
+- [React query](https://react-query.tanstack.com):          Hooks for fetching, caching and updating
+- [Jest](https://jestjs.io):                                Delightful JavaScript Testing
+- [React testing library](https://testing-library.com):     Testing Library
+- [Eslint](https://eslint.org):                             Pluggable JavaScript linter (autocorect your code)
+- [Prettier](https://prettier.io):                          Opinionated Code Formatter
+- [Typescript](https://www.typescriptlang.org):             Typed JavaScript at Any Scale (JS but with typechecking)
+- [SASS](https://sass-lang.com):                            Syntactically Awesome Style Sheets (better css)
+- [Docker](https://www.docker.com):                         Empowering App Development for Developers
 
 ## Getting Started
 
@@ -34,6 +34,26 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 [API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+## Storybook
+
+Run storybook:
+
+```bash
+npm run test
+# or
+yarn test
+```
+
+## Testing
+
+To run the tests:
+
+```bash
+npm run test
+# or
+yarn test
+```
 
 ## Learn More
 
