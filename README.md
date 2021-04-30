@@ -40,9 +40,9 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 Run storybook:
 
 ```bash
-npm run test
+npm run storybook
 # or
-yarn test
+yarn storybook
 ```
 
 ## Testing
